@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="100%" height="100%">
+  <defs>
+    <linearGradient id="decrypt-gradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4C3B8A" />
+      <stop offset="100%" stop-color="#00F3FF" />
+    </linearGradient>
+  </defs>
+  <path fill="url(#decrypt-gradient)" d="M18 8h-1V6c0-2.76-2.24-5-5-5S7 3.24 7 6h2c0-1.66 1.34-3 3-3s3 1.34 3 3v2H6c-1.1 0-2 .9-2 2v10c0 1.1.9 2 2 2h12c1.1 0 2-.9 2-2V10c0-1.1-.9-2-2-2zm-6 9c-1.1 0-2-.9-2-2s.9-2 2-2 2 .9 2 2-.9 2-2 2z"/>
+  <path fill="#00F3FF" d="M12 13c-.55 0-1 .45-1 1s.45 1 1 1 1-.45 1-1-.45-1-1-1z" opacity="0.8"/>
+  <path fill="#FF4D7C" d="M15 8H9V6h6v2z" opacity="0.3"/>
+</svg>
